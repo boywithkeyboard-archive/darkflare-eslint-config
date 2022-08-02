@@ -1,0 +1,20 @@
+{
+  "name": "@darkflare/eslint-config",
+  "version": "0.0.0",
+  "description": "A reusable eslint configuration created especially for darkflare.",
+  "author": "Samuel Kopp <opensource@azury.dev> (https://azury.dev)",
+  "license": "Apache-2.0",
+  "repository": "darkflarengine/eslint-config",
+  "bugs": "https://github.com/darkflarengine/eslint-config/issues",
+  "homepage": "https://github.com/darkflarengine/eslint-config#readme",
+  "dependencies": {
+    "@azury/eslint-config": "^1.0.3"
+  },
+  "peerDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "devDependencies": {
+    "@changesets/changelog-github": "^0.4.6",
+    "@changesets/cli": "^2.24.1"
+  }
+}
