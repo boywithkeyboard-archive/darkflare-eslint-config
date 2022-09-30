@@ -1,6 +1,6 @@
 {
   "name": "@darkflare/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A reusable eslint configuration created especially for darkflare.",
   "author": "Samuel Kopp <opensource@azury.dev> (https://azury.dev)",
   "license": "Apache-2.0",
