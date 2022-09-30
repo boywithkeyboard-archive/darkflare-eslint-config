@@ -1,3 +1,7 @@
 module.exports = {
-  extends: '@azury'
+  extends: '@azury',
+
+  rules: {
+    'import/no-unused-modules': 0
+  }
 }
