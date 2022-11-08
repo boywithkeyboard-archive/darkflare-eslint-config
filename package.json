@@ -8,7 +8,7 @@
   "bugs": "https://github.com/darkflarengine/eslint-config/issues",
   "homepage": "https://github.com/darkflarengine/eslint-config#readme",
   "dependencies": {
-    "@azury/eslint-config": "^1.0.10"
+    "@azury/eslint-config": "^1.0.12"
   },
   "peerDependencies": {
     "eslint": "^8.21.0"
